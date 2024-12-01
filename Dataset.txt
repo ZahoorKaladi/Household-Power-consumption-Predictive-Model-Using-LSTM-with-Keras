@@ -1,0 +1,1 @@
+Due to large size of data i couldn't upload here are the resource for data go to kaggle type "household_power_consumption_mod.csv"
